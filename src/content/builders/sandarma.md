@@ -6,7 +6,10 @@ role: builder
 skills: ["JavaScript", "TypeScript", "ReactJS", "React Native", "Claude Code"]
 repo: https://github.com/sandarma?tab=repositories
 linkedin: sandar-min-aye
-website: coming-soon
+website: [my personal website](https://sandarminaye.github.io/)
+certs:
+  claude_101: https://verify.skilljar.com/c/c35gcb5oarzc
+  claude_code_101: https://verify.skilljar.com/c/ksw4c8jkzifc
 ---
 
 Hi! I'm learning to vibe-code with AI. My goal is to build and ship something
