@@ -10,6 +10,8 @@ website: https://winnaingsoe.vercel.app
 certs:
   claude_101: https://verify.skilljar.com/c/5wysaarxqp7s
   claude_code_101: https://verify.skilljar.com/c/xgfkiaqpzzer
+  agent_skills_intro: https://verify.skilljar.com/c/uduetgesyxw6
+  subagents_intro: https://verify.skilljar.com/c/m2iwesgjvaxa
 ---
 
 Mastering AI workflows. I leverage my cloud and frontend experience to ship fast and build in public!
